@@ -1,5 +1,5 @@
 """
-Check if prime number
+Check if a number is prime
 """
 
 n = int(input("Enter any number : "))
